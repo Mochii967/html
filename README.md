@@ -1,2 +1,2 @@
 # html
-This is a html only document with little to no styling
+This is a html only document with little to no styling. It is for people who are new to html and want to see a good amount of what html can actually do. As of version 1.0 there is no styling added, I did not want that to be a focal point in this document, so I apologize if its a little bland. I have however created most elements with ids so that styling this document should not be too hard. This document does use some of the new HTML5 properties some of which are not supported by all browsers so keep that in mind.
